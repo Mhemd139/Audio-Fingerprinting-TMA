@@ -14,12 +14,6 @@ The system is split into two major components:
 - Receive the closest matching audio result (e.g., song name).
 - Modern UI with favorites, playback, and recording history.
 
-> _📸 UI Placeholder Images (add yours if available):_
-> - `mobile-ui-home.png` – Main screen showing recorded clips.
-> - `mobile-ui-record.png` – Recording interface.
-> - `mobile-ui-results.png` – Match result display.
-> - `mobile-ui-favorites.png` – List of favorited audio matches.
-
 ---
 
 ### 🖥️ Python Server (Backend)
