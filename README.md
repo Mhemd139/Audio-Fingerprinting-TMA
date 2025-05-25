@@ -101,9 +101,9 @@ This FFT process is foundational for fingerprinting.
 
 | Name               | Role                     |
 |--------------------|--------------------------|
-| **Tasbih Abboud**    |Project Lead & UI/UX + QA Testing|
+| **Tasbih Abboud**    |Project Lead & Flutter Developer|
 | **Muhammed Masarwa** | Backend Developer (Python) |
-| **Amina Haj Yahya**  | Flutter Developer |
+| **Amina Haj Yahya**  | UI/UX + QA & Testing    |
 
 ---
 
