@@ -48,6 +48,8 @@ The backend is responsible for:
 ## 📊 System Architecture
 
 ![image](https://github.com/user-attachments/assets/8766efa9-a0ce-4971-98a7-ce768fabe198)
+
+
 _**Figure 1**: Audio flows through a fingerprinting process → hash → matching → result._
 
 ---
@@ -56,20 +58,23 @@ _**Figure 1**: Audio flows through a fingerprinting process → hash → matchin
 
 ### 1. Spectrogram in 3D  
 Visualizes frequency over time + amplitude in 3D.  
-![3D Spectrogram](./spectrogram-3d.png)
+![image](https://github.com/user-attachments/assets/434e85da-0f8c-408c-a143-de1daf1acd41)
+
 
 ---
 
 ### 2. Spectrogram with Peak Detection  
 Used to extract fingerprint-relevant peaks.  
-![Blurred Lines Spectrogram](./spectrogram-blurred-lines.png)
+![image](https://github.com/user-attachments/assets/40e71284-cb8b-437f-8a81-8aa729e08287)
+
 
 ---
 
 ### 3. Waveform to Frequency Spectrum  
 Raw waveform (left) → frequency domain (right).  
 This FFT process is foundational for fingerprinting.  
-![Waveform to FFT](./waveform-to-spectrum.png)
+![image](https://github.com/user-attachments/assets/8f5a4d45-f770-463a-ae33-614ae7f4b8e1)
+
 
 ---
 
