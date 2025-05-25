@@ -79,4 +79,52 @@ This FFT process is foundational for fingerprinting.
 ---
 
 ## 📁 Project Structure
+📦 Audio-Fingerprinting-TMA/
+├── 📁 android/ # Flutter Android project
+├── 📁 lib/ # Flutter source code (UI, logic)
+├── 📁 assets/ # App images and fonts
+├── 📁 server/ # Python backend (fingerprinting + matching)
+├── 📄 pubspec.yaml # Flutter dependencies
+├── 📸 Screenshot.jpg # UI or diagram image
+└── 📄 README.md 
+
+
+
+
+
+
+
+
+
+---
+
+## 👥 Authors
+
+| Name               | Role                     |
+|--------------------|--------------------------|
+| **Muhammed Masarwa** | Backend Developer (Python) |
+| **Tasbih**           | Flutter App Lead           |
+| **Amina**            | UI/UX + QA & Testing       |
+
+---
+
+## 📌 Project Notes
+
+- Created as a final senior-year project.
+- Built for educational and demonstration purposes.
+- Source code may contain legacy or unfinished components.
+
+---
+
+## 🔗 Acknowledgments
+
+- [LibROSA](https://librosa.org/) – Music and audio analysis in Python  
+- [NumPy](https://numpy.org/) – Scientific computing  
+- [Flutter](https://flutter.dev/) – Cross-platform mobile framework
+
+---
+
+## 📨 Contact
+
+For inquiries or collaboration: [github.com/Mhemd139](https://github.com/Mhemd139)
 
