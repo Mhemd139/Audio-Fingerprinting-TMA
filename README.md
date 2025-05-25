@@ -74,12 +74,19 @@ This FFT process is foundational for fingerprinting.
 
 ## 📁 Project Structure
 📦 Audio-Fingerprinting-TMA/
+
 ├── 📁 android/ # Flutter Android project
+
 ├── 📁 lib/ # Flutter source code (UI, logic)
+
 ├── 📁 assets/ # App images and fonts
+
 ├── 📁 server/ # Python backend (fingerprinting + matching)
+
 ├── 📄 pubspec.yaml # Flutter dependencies
+
 ├── 📸 Screenshot.jpg # UI or diagram image
+
 └── 📄 README.md 
 
 
