@@ -85,8 +85,6 @@ This FFT process is foundational for fingerprinting.
 
 ├── 📄 pubspec.yaml # Flutter dependencies
 
-├── 📸 Screenshot.jpg # UI or diagram image
-
 └── 📄 README.md 
 
 
