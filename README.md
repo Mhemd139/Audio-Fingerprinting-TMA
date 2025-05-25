@@ -47,8 +47,7 @@ The backend is responsible for:
 
 ## 📊 System Architecture
 
-![System Flow](![image](https://github.com/user-attachments/assets/8766efa9-a0ce-4971-98a7-ce768fabe198)
-)  
+![image](https://github.com/user-attachments/assets/8766efa9-a0ce-4971-98a7-ce768fabe198)
 _**Figure 1**: Audio flows through a fingerprinting process → hash → matching → result._
 
 ---
